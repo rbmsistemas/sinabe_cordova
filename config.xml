@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="net.sytes.sinabe" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Sinabe</name>
+    <description>Sistema de Inventarios para Altas y Bajas de Equipos</description>
+    <author email="raul.belloso.m@gmail.com" href="https://cordova.apache.org">
+        Raul Belloso M
+    </author>
+    <content src="https://sinabe.sytes.net" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
